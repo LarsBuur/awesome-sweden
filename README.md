@@ -125,6 +125,8 @@ A curated list of awesome things to use when coding for the Swedish market.
   + [JavaScript](https://github.com/jonathanp/swedish-phone-number-formatter)
 - Postal code validator
   + [JavaScript](https://github.com/jonathanp/swedish-postal-code-validator)
+- Postal code lookup
+  + [JavaScript](https://github.com/vzhufk/z1p) 
 - Cardinal number converter
   + [JavaScript](https://github.com/jonathanp/swedish-cardinal-numbers)
 
@@ -136,7 +138,6 @@ Libraries and other things we wished existed or haven't heard of yet.
 - Bank account validation in more languages than Ruby
 - BankID tools in more languages
 - [Swish](https://www.getswish.se/)
-- Zip/Postnummer reverse lookup
 - API Clients
   + [Statistikdatabasen](http://www.scb.se/om-scb/om-scb.se-och-anvandningsvillkor/oppna-data-api/api-for-statistikdatabasen/) (SCB)
   + APIs listed at https://www.trafiklab.se/api
